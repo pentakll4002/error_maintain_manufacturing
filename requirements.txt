@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+opencv-python
+scikit-image
+scikit-learn
+ipython
+graphviz
+pydot
+tensorflow==2.15.0
+mymodule
+keras_preprocessing

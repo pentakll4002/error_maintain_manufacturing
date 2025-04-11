@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code config files
+.vscode/
+
+# PyCharm config
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Log files
+*.log
+
+# Model & dataset folders
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.tflite
+checkpoints/
+models/
+runs/
+logs/
+output/
+
+# Images and masks (optional)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Token or credentials
+token.json
+credentials.json
+secrets.json
+*.key
+
+# IPython history
+.history
+
+# Python env
+pip-log.txt
+pip-delete-this-directory.txt
